@@ -9,7 +9,7 @@
 - `Javascript`
 - `JQuery`
 - `Vue.js`
-- `HTML5
+- `HTML5`
 - `CSS3`
 - `Wordpress`
 - `Woocommerce`
